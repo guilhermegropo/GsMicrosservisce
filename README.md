@@ -4,6 +4,7 @@
 Guilherme Gropo Freitas Pacheco da Silva - RM93309
 
 ## Print da aplicação em execução
+![globalGui](https://github.com/guilhermegropo/GsMicrosservisce/assets/81481422/04d05a8d-1217-4c4e-8039-0229b47f93a6)
 
 
 ##  Indicações de execução:
